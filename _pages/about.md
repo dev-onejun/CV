@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: '
-<a href="https://https://uta-acl2.github.io">Arlington Computational Linguistic Lab</a>,
+<a href="https://uta-acl2.github.io">Arlington Computational Linguistic Lab</a>,
 <a href="https://www.uta.edu">University of Texas at Arlington</a>.
 '
 
