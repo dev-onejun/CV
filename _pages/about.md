@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: '
+<a href="https://https://uta-acl2.github.io">Arlington Computational Linguistic Lab</a>,
+<a href="https://www.uta.edu">University of Texas at Arlington</a>.
+'
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Arlington, Texas, 76010</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Wonjun Park**, originally from South Korea, is a Master of Science candidate in Computer Science at the University of Texas at Arlington (expected May 2026).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Over the past few years, he has built a strong foundation in machine learning, deep learning, artificial intelligence, and software engineering through various projects. As a visiting scholar at Purdue University, he desgined and implemented a deep learning pipeline to classify Poison Ivy plants in the nature. He also spearheaded EEG and fMRI projects such as EEG-based visual image reconstruction and 3D brain pathology visualization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Wonjun has recently focused on sound separation tasks with deep learning techniques, taking advantage of his previous backgrounds. He is strongly eager to apply his multidisciplinary knowledge to real-world challenges using AI technologies.
