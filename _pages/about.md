@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Wonjun Park**, originally from South Korea, is a Master of Science candidate in Computer Science at the University of Texas at Arlington (expected May 2026).
+**Wonjun Park** is a Master of Science candidate in Computer Science at the University of Texas at Arlington (expected May 2026).
 
 Over the past few years, he has built a strong foundation in machine learning, deep learning, artificial intelligence, and software engineering through various projects. As a visiting scholar at Purdue University, he designed and implemented a deep learning pipeline to classify Poison Ivy plants in nature. He also spearheaded EEG and fMRI projects such as EEG-based visual image reconstruction and 3D brain pathology visualization.
 
