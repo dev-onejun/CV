@@ -51,7 +51,8 @@ layout: default
     <!-- Latest posts -->
     {% if site.latest_posts and site.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        {% comment %}<a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>{% endcomment %}
+        <a href="https://dev-onejun.github.io" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
