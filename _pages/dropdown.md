@@ -8,4 +8,6 @@ children:
   - title: publications
     permalink: /publications/
   - title: divider
+  - title: blog
+    permalink: https://dev-onejun.github.io
 ---
