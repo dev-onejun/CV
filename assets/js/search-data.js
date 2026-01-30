@@ -37,16 +37,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/CV/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },{id: "news-a-one-paper-is-accepted-at-icassp-2026-sparkles-smile",
+          title: 'A one paper is accepted at ICASSP 2026! :sparkles: :smile:',
           description: "",
           section: "News",},{
         id: 'social-email',
