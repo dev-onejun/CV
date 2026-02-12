@@ -5,8 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: blog
-    permalink: https://dev-onejun.github.io
+  - title: CV
+    permalink: /assets/pdf/CV_Jan.17,2026.pdf
 ---
 
   <!--- title: divider-->
