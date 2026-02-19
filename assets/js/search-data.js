@@ -30,6 +30,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-resume",
+              title: "RESUME",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "news-a-one-paper-is-accepted-at-icassp-2026-sparkles-smile",
           title: 'A one paper is accepted at ICASSP 2026! :sparkles: :smile:',
           description: "",
