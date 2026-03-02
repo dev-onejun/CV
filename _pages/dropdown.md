@@ -9,7 +9,7 @@ children:
     permalink: /assets/pdf/CV_Jan.17,2026.pdf
   - title: divider
   - title: RESUME
-    permalink: /assets/pdf/RESUME_Feb.18,2026.pdf
+    permalink: /assets/pdf/RESUME_Mar.2,2026.pdf
 ---
 
   <!--- title: divider-->
