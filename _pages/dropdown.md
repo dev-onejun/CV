@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: CV
-    permalink: /assets/pdf/CV_Jan.17,2026.pdf
+    permalink: /assets/pdf/CV_Mar.4,2026.pdf
   - title: divider
   - title: RESUME
     permalink: /assets/pdf/RESUME_Mar.2,2026.pdf
