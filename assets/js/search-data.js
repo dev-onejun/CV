@@ -40,7 +40,12 @@ ninja.data = [{
             },{id: "news-a-one-paper-is-accepted-at-icassp-2026-sparkles-smile",
           title: 'A one paper is accepted at ICASSP 2026! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-i-successfully-defended-my-master-39-s-thesis-at-the-university-of-texas-at-arlington",
+          title: 'I successfully defended my Master&amp;#39;s thesis at the University of Texas at Arlington!...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/CV/news/announcement_2/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
